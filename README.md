@@ -29,6 +29,11 @@ I enjoy building fast, scalable web apps that help people turn their vision into
 - 🎨 **Tailwind CSS**
 - 🗄️ **Supabase**
 - 🧰 **Laravel**
+- 🇼 **WordPress**
+
+### 🧩 Technologies I’ve Worked With
+JavaScript, TypeScript, PHP, MySQL, PostgreSQL, Node.js, Prisma, Git, AWS, Vercel, Fly.io, SiteGround, Neon, Elementor, Stripe, Mailgun, SendGrid, and RESTful APIs.
+
 
 ---
 
